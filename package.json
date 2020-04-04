@@ -1,0 +1,25 @@
+{
+  "name": "object_detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-load-image": "^2.28.0",
+    "lodash": "^4.17.15",
+    "ndarray": "^1.0.19",
+    "ndarray-ops": "^1.2.2",
+    "next": "^9.3.4",
+    "onnxjs": "^0.1.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-webcam": "^5.0.1"
+  }
+}
