@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "blueimp-load-image": "^2.28.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ndarray": "^1.0.19",
     "ndarray-ops": "^1.2.2",
     "next": "^9.3.4",
